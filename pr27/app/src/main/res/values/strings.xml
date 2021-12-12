@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pr27</string>
+    <string name="ivanov_ivan">Ivanov Ivan</string>
+    <string name="rostov">Rostov</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+</resources>
